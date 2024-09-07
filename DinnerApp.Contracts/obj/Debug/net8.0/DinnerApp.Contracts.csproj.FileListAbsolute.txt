@@ -1,0 +1,11 @@
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/bin/Debug/net8.0/DinnerApp.Contracts.deps.json
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/bin/Debug/net8.0/DinnerApp.Contracts.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/bin/Debug/net8.0/DinnerApp.Contracts.pdb
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/DinnerApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/DinnerApp.Contracts.AssemblyInfoInputs.cache
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/DinnerApp.Contracts.AssemblyInfo.cs
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/DinnerApp.Contracts.csproj.CoreCompileInputs.cache
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/DinnerApp.Contracts.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/refint/DinnerApp.Contracts.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/DinnerApp.Contracts.pdb
+/Users/cainnech/sources/DinnerApp/DinnerApp.Contracts/obj/Debug/net8.0/ref/DinnerApp.Contracts.dll

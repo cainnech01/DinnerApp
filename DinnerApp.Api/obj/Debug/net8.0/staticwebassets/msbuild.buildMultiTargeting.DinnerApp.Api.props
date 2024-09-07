@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DinnerApp.Api.props" />
+</Project>

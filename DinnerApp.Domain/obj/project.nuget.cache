@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rClTqPfN3ZQ=",
+  "success": true,
+  "projectFilePath": "/Users/cainnech/sources/DinnerApp/DinnerApp.Domain/DinnerApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/cainnech/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOWFoee9zZU=",
+  "success": true,
+  "projectFilePath": "/Users/cainnech/sources/DinnerApp/DinnerApp.Application/DinnerApp.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/cainnech/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/cainnech/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

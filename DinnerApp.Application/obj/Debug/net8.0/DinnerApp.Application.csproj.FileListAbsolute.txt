@@ -1,0 +1,15 @@
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/bin/Debug/net8.0/DinnerApp.Application.deps.json
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/bin/Debug/net8.0/DinnerApp.Application.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/bin/Debug/net8.0/DinnerApp.Application.pdb
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.AssemblyInfoInputs.cache
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.AssemblyInfo.cs
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.csproj.CoreCompileInputs.cache
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/refint/DinnerApp.Application.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.pdb
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/ref/DinnerApp.Application.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/bin/Debug/net8.0/DinnerApp.Domain.dll
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/bin/Debug/net8.0/DinnerApp.Domain.pdb
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerApp.Application.csproj.AssemblyReference.cache
+/Users/cainnech/sources/DinnerApp/DinnerApp.Application/obj/Debug/net8.0/DinnerAp.4C650312.Up2Date
